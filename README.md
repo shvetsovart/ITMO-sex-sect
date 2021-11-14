@@ -1,2 +1,3 @@
 # ITMO-sex-sect
-It's a repo for sex sect (club) projects at ITMO.
+
+Пока что думаем над вступительным тестом.
